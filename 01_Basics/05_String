@@ -1,0 +1,35 @@
+// let name="sanjay"
+// console.log(`Hello World ${name}`)
+
+// let address=new String("virar")
+// console.log(address)
+// console.log(address.length);
+
+// console.log(address.toUpperCase())
+// console.log(address.toLowerCase())
+// console.log("print v: "+address[0])
+// console.log(address.charAt(4))
+// console.log(address.charAt(12))//print nothing
+// console.log(address.indexOf('r'))
+
+// let shortform=address.substring(0,2)
+// console.log(shortform)
+// let newshort=address.slice(-6,5)
+// console.log(newshort)
+
+// const firstname="        sanjay       "
+// console.log(firstname)
+// console.log(firstname.trimStart())
+// console.log(firstname.trimEnd())
+// console.log(firstname.trim())
+
+// const url="http://sanjaydbhandari"
+// console.log(url.replace('d','-'))
+
+// const url="http://sanjay bhandari"
+// console.log(url.replace('%20','-'))
+
+// console.log(url.includes("sanjay"));
+
+// let name="sanjay bhandari"
+// console.log(name.split(' '))
